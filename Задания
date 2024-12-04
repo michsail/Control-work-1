@@ -1,0 +1,25 @@
+#Лёгкий уровень
+#Задание 3
+#import math
+
+#n=5
+#result = math.factorial(n)
+#rint("Факториал числа",n,"Равен",result)
+
+#Задание 2
+#while True:
+    #number1 = int(input("Введите первое число"))
+    #number2 = int(input("Введите второе число"))
+    #print("Сумма чисел: ", number1 + number2)
+    #str=input ("Введите Y или y для завершения программы: ")
+    #if (str == "Y" or str == "y"):  break
+
+
+#Задание 1
+
+#number1=int(input("Введите длину прямоуголиника:"))
+#number2=int(input("Введите ширину прямоуголинка:"))
+#Square = number1 * number2
+#print("Площадь прямоугольника равна",S )
+
+
